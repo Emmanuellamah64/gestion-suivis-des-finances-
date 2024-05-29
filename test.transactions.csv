@@ -1,0 +1,6 @@
+_id,amount,date,category,description,tags[0],tags[1],userId,__v
+66534bc0e63ca542ac21e13d,15,2024-05-26T00:00:00.000Z,Food,Dinner,restaurant,parent,66534b10e63ca542ac21e13a,0
+66534c02e63ca542ac21e140,40,2024-05-24T00:00:00.000Z,Food,Dinner,restaurant,freind,66534b10e63ca542ac21e13a,0
+66534c6a42ea104f892b3bc4,50,2024-05-22T00:00:00.000Z,Food,Dinner,restaurant,oncle,66534b10e63ca542ac21e13a,0
+66534f0b42ea104f892b3bd2,100,2024-05-20T00:00:00.000Z,Food,deheuner,restaurant,my husband,66534d9b42ea104f892b3bc7,0
+66534fab42ea104f892b3bd5,10,2024-05-18T00:00:00.000Z,repas,shopping,restaurant,heart,66534e2942ea104f892b3bcc,0

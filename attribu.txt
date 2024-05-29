@@ -1,0 +1,26 @@
+Cree user 
+
+{
+  "name": "emma",
+  "email": "emma@gamil.com",
+  "password": "1234"
+}
+
+
+connexion compte
+
+{
+  "email": "emma@gamil.com",
+  "password": "1234"
+}
+
+
+
+ajouter transaction
+{
+  "amount": 50,
+  "date": "2024-05-22T00:00:00.000Z",
+  "category": "Food",
+  "description": "Dinner",
+  "tags": ["restaurant", "oncle"]
+}
